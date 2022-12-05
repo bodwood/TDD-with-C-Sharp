@@ -1,0 +1,12 @@
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\bin\Debug\net6.0\Calendar.deps.json
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\bin\Debug\net6.0\Calendar.dll
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\bin\Debug\net6.0\Calendar.pdb
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfo.cs
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\Calendar.dll
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\refint\Calendar.dll
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\Calendar.pdb
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Calendar.Solution\Calendar\obj\Debug\net6.0\ref\Calendar.dll
