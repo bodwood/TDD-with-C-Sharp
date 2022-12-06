@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar\\Calendar.csproj": {}
+    "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar\\Calendar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar\\Calendar.csproj": {
+    "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar\\Calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar\\Calendar.csproj",
+        "projectUniqueName": "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar\\Calendar.csproj",
         "projectName": "Calendar",
-        "projectPath": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar\\Calendar.csproj",
+        "projectPath": "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar\\Calendar.csproj",
         "packagesPath": "C:\\Users\\bodie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar\\obj\\",
+        "outputPath": "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bodie\\AppData\\Roaming\\NuGet\\NuGet.Config"

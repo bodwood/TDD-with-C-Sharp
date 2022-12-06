@@ -6735,11 +6735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar.Tests\\Calendar.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar.Tests\\Calendar.Tests.csproj",
       "projectName": "Calendar.Tests",
-      "projectPath": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar.Tests\\Calendar.Tests.csproj",
+      "projectPath": "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar.Tests\\Calendar.Tests.csproj",
       "packagesPath": "C:\\Users\\bodie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar.Tests\\obj\\",
+      "outputPath": "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bodie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6754,8 +6754,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar\\Calendar.csproj": {
-              "projectPath": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\Calendar.Solution\\Calendar\\Calendar.csproj"
+            "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar\\Calendar.csproj": {
+              "projectPath": "C:\\Users\\bodie\\onedrive\\desktop\\Epicodus-Projects\\Calendar.Solution\\Calendar\\Calendar.csproj"
             }
           }
         }
